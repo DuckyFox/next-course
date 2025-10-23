@@ -4,7 +4,7 @@ import Link from "next/link";
 const Page = () => {
     return (
         <div>
-            <h1>users</h1>
+            <h2>users</h2>
             <ul className='mt-10'>
                 <li>
                     <Link href="/dashboard/users/1">
